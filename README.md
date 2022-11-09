@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Qiuke-Studies
+- 👀 I’m interested in learning R and other coding languages to develop my toolkit.
+- 🌱 I’m currently reading for Masters in Analytics and Management at London Business School. 
